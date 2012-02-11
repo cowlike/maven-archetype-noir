@@ -1,0 +1,10 @@
+1. After checking out ual-archetype-quickstart project. Run "install" goal on the project.
+2. To add catalog…
+	2.1 Start new project create wizard 
+	2.2 Choose Maven project 
+	2.3 Go to archetype selection page 
+	2.4 Click on “add local catalog” button 
+	2.5 browse to attached file and add. 
+	2.6 re-start if new archetype does not show up ( in the drop down it will say United Maven Catalog.
+	
+	 

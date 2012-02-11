@@ -1,0 +1,16 @@
+<archetype>
+  <id>ual-archetype-noir</id>
+  <sources>
+    <source>src/main/java/Main.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/MainTest.java</source>
+  </testSources>
+  <resources>
+  	<resource>src/main/resources/application.properties</resource>
+  	<resource>src/test/resources/test_application.properties</resource>
+    <resource>src/main/clojure/my_website/server.clj</resource>
+    <resource>src/main/clojure/my_website/views/common.clj</resource>
+    <resource>src/main/clojure/my_website/views/todo.clj</resource>
+  </resources>
+</archetype>

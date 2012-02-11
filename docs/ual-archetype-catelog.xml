@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog>
+  <archetypes>
+    <archetype>
+    <groupId>com.ual.maven.archetypes</groupId>
+    <artifactId>ual-archetype-noir</artifactId>
+    <version>1.0.0</version>
+    <description>UAL Clojure Noir web app archetype</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
